@@ -24,7 +24,10 @@ export default function Home() {
           Welcome to Our Website
         </h1>
 
-                {token ? (
+        <p className="text-gray-700 mb-8">
+         Learning is a journey, not a destination.
+        </p>
+        {token ? (
           <button
             onClick={logout}
             className="bg-red-500 text-white px-6 py-2 rounded"
