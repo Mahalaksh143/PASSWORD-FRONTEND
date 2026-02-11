@@ -18,7 +18,7 @@ export default function Home() {
           "url('https://images.unsplash.com/photo-1521920592574-49e0b121c964?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')",
       }}
     >
-      <div className="bg-white/85 backdrop-blur-md p-8 rounded-xl w-[70%] max-w-xl text-center shadow-lg">
+      <div className="bg-white/100 backdrop-blur-md p-8 rounded-xl w-[70%] max-w-xl text-center shadow-lg">
         
         <h1 className="text-4xl font-bold mb-4">
           Welcome to Our Website
